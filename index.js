@@ -4,4 +4,5 @@ function Multiplicacao(PrimeiroValor, SegundoValor)
   return PrimeiroValor * SegundoValor;
 }
 
-console.log(Mul(2, 5));
+console.log(
+Multiplicacao(2, 5));
